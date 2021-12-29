@@ -1,0 +1,42 @@
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    display: inline-block;
+  //   color: white;
+    text-align: left;
+    background-color:rgba(255,255,255,0.0);
+  //   padding: 14px;
+  //   text-decoration: none;
+  }
+  
+  // div.scrollmenu a {
+  //   display: inline-block;
+  //   color: white;
+  //   text-align: center;
+  //   padding: 14px;
+  //   text-decoration: none;
+  // }
+  
+  // div.scrollmenu a:hover {
+  //   background-color: #777;
+  // }
+  
+  div.cardrow {
+    overflow: auto;
+    white-space: nowrap;
+    background-color:rgba(255,255,255,0.0);
+  }
+  
+  div.card{
+    display: inline-block;
+  }
+  
+  div.card-bottom {
+      .left, .right {
+      all: unset;
+  
+      }
+  }
+  
